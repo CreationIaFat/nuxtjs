@@ -1,5 +1,6 @@
 <template>
   <div class="VueToNuxtLogo">
+    <h1>パワーボール加速中</h1>
     <div class="Triangle Triangle--two" />
     <div class="Triangle Triangle--one" />
     <div class="Triangle Triangle--three" />
